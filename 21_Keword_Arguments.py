@@ -11,6 +11,6 @@ def greet_user(first_name, last_name):
 print("Start")
 greet_user(first_name="Nidhi", last_name="Kumari")  # Keyword argument
 greet_user("Nidhi", last_name="Kumari")
-#   keyword argument should always come after positional argument.
+#  keyword argument should always come after positional argument.
 
 print("Finish")
